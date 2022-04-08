@@ -31,4 +31,4 @@ There were limitations in this data set as it was missing some more detailed inf
 * Minimum pledge amount (if any)
 * Genre of each play
 
-If we had other data points such as the above suggestions we could create a box and whisker plot, which would show any possible outliers that may be skewing our the distributions from our analysis. 
+If we had other data points such as the above suggestions we could create a box and whisker plot, which would show any possible outliers that may be skewing the distributions from our analysis. 
