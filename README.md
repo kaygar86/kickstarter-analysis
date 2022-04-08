@@ -7,7 +7,7 @@ The purpose of this analysis is to help an up-and-coming playwright, Louise, who
 
 ## Analysis and Challenges: 
 
-We performed data analysis on several thousand crowdfunding projects to see if there are any trends that make a campaign more likely to be successful. We analyzed two data points, launch date and goal amount.
+We performed data analysis on several thousand crowdfunding projects to see if we could find any trends that make a campaign more likely to be successful. We analyzed two data points - launch date and goal amount.
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/66224990/162535786-e245d62d-b658-4c81-a3dd-6c52acc60c93.png)
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/66224990/162535812-afd5c23e-a0d8-4f1c-b523-86e1aab6e41a.png)
@@ -20,7 +20,7 @@ We saw a trend based on launch date as there was a clear peak and decline in the
 
 ## Outcomes by Goals
 
-We did not find a trend of the success rate being affected by the goal amount, but the most successful campaigns were ones with goals of $1000 or less. There was also a peak around $35,000, however there is no evidence that the goal amount was the reason for that spike.
+We did not find a trend of the success rate being affected by the goal amount, but the most successful campaigns were ones with goals of $1000 or less. There was also a peak around $35,000; however there is no evidence that the goal amount was the reason for that spike.
 
 Campaigns in Louise’s goal range of “$10,000 to $14,999” were about 55% likely to succeed. 
 
