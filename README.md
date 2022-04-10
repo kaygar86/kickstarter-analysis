@@ -9,16 +9,24 @@ The purpose of this analysis is to help an up-and-coming playwright, Louise, who
 
 We performed data analysis on several thousand crowdfunding projects to see if we could find any trends that make a campaign more likely to be successful. We analyzed two data points - launch date and goal amount.
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/66224990/162535786-e245d62d-b658-4c81-a3dd-6c52acc60c93.png)
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/66224990/162535812-afd5c23e-a0d8-4f1c-b523-86e1aab6e41a.png)
-
 We did not run into any challenges during our analysis. 
 
 ## Outcomes by Launch
 
-We saw a trend based on launch date as there was a clear peak and decline in the success rate based on which month the campaign was launched. The most successful campaigns were launched in Spring and Summer months, with a peak in May. The least successful campaigns were launched in Winter months.  We concluded that a Spring or Summer launch would more likely to result in a successful campaign, however there is still around 30-50% chance of failure throughout the year. 
+The first analysis we performed compared the outcome of the campaigns based on the date they were launched.
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/66224990/162535786-e245d62d-b658-4c81-a3dd-6c52acc60c93.png)
+
+We saw a trend based on launch date as there was a clear peak and decline in the success rate based on which month the campaign was launched. The most successful campaigns were launched in Spring and Summer months, with a peak in May. The least successful campaigns were launched in Winter months.  
+
+We concluded the following: 
+* A Spring or Summer launch would be more likely to result in a successful campaign. The graph showed the highest number of successful campaigns launched from April to August.
+* There is a fairly consistent chance of failure throughout the year. The graph showed around 30 - 50 campaigns failed month by month.  
 
 ## Outcomes by Goals
+The second analysis we performed compared outcome of the campaigns based on the fundraising goal amount. 
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/66224990/162535812-afd5c23e-a0d8-4f1c-b523-86e1aab6e41a.png)
 
 We did not find a trend of the success rate being affected by the goal amount, but the most successful campaigns were ones with goals of $1000 or less. There was also a peak around $35,000; however there is no evidence that the goal amount was the reason for that spike.
 
@@ -26,9 +34,13 @@ Campaigns in Louise’s goal range of “$10,000 to $14,999” were about 55% li
 
 Given the data did not point to a clear trend we cannot conclude that goal amount alone would affect Louise’s success rate. We suggest analyzing additional data points. 
 
-There were limitations in this data set as it was missing some more detailed information. Factors that could possibly show some trends would be:
+## Limitations and Additional Analysis Suggestions
+
+There were limitations in this data set as it only showed the total number of backers and the total amount pledged. We also didn't know details about the plays, except what was in the blurb written about them. 
+
+Factors that could possibly show some trends would be:
 * Amount each backer pledged
 * Minimum pledge amount (if any)
 * Genre of each play
 
-If we had other data points such as the above suggestions we could create a box and whisker plot, which would show any possible outliers that may be skewing the distributions from our analysis. 
+If we had other data points such as the above suggestions we could create a box and whisker plot, which would show any possible outliers that may be skewing the distributions in our analysis. 
