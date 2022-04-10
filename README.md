@@ -9,6 +9,13 @@ The purpose of this analysis is to help an up-and-coming playwright, Louise, who
 
 We performed data analysis on several thousand crowdfunding projects to see if we could find any trends that make a campaign more likely to be successful. We analyzed two data points - launch date and goal amount.
 
+## Outcomes by Launch Table
+<img width="492" alt="Outcomes_by_Launch_table" src="https://user-images.githubusercontent.com/66224990/162629680-7a4f70b8-1e65-4464-9efc-e8852f0a2cdf.png">
+
+## Outcomes by Goal Table
+<img width="906" alt="Outcomes_by_Goal_table" src="https://user-images.githubusercontent.com/66224990/162629691-29958c5e-f7d1-4b28-bc27-2b1207cc763c.png">
+
+
 We did not run into any challenges during our analysis. 
 
 ## Outcomes by Launch
