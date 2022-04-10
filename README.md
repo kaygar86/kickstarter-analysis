@@ -36,7 +36,7 @@ Given the data did not point to a clear trend we cannot conclude that goal amoun
 
 ## Limitations and Additional Analysis Suggestions
 
-There were limitations in this data set as it only showed the total number of backers and the total amount pledged. We also didn't know details about the plays, except what was in the blurb written about them. 
+There were limitations in this data set as it only showed the total number of backers and the total amount pledged. We also did not know details about the plays, except what was in the blurb. 
 
 Factors that could possibly show some trends would be:
 * Amount each backer pledged
